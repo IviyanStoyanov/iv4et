@@ -1,2 +1,0 @@
--Hi my name is Iviyan Stoyanov.
--Currently learning C#, and SQL.
